@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.notFound {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 800;
+}

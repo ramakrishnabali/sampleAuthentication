@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.navList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.navListItem {
+  list-style-type: none;
+  color: #917fb3;
+  font-size: 23px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin: 13px;
+}

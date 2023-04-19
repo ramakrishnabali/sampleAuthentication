@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border: 0px solid transparent;
+  width: 100%;
+}
+
+.loginHeading {
+  color: black;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
+
+.loginButton {
+  background-color: #bfccb5;
+  color: black;
+  font-family: 'Roboto';
+  font-weight: 400;
+  border: 1px solid #7c96ab;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+}
